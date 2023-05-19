@@ -13,7 +13,7 @@
     "require": {
         "php": ">=8.0",
         "yiisoft/yii2": "*",
-        "iiifx-production/yii2-autocomplete-helper": "*",
+        "mitirrli/yii2-ide-helper": "*",
         "esempla/yii2tech-dump-migration": "*",
         "yiisoft/yii2-gii": "^2.0"
     },
